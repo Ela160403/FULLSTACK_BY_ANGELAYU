@@ -1,4 +1,4 @@
-|# Section 15: Additional Resources 🌟
+# Section 15: Additional Resources 🌟
 
 Welcome to the treasure trove of resources from Angela Yu's course! 🎓✨ Here you'll find a mix of videos, documentation, blog posts, and interactive tools to supercharge your learning experience. Dive in and explore these gems! 💎
 
