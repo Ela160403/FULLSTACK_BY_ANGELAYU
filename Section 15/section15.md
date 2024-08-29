@@ -36,3 +36,9 @@ Welcome to the treasure trove of resources from Angela Yu's course! 🎓✨ Here
 - **Description:** 📁 A file with extra materials related to the course. Make sure you have the proper permissions to view or download it!
 
 ---
+<<<<<<< HEAD
+=======
+
+Feel free to explore these resources and enhance your learning journey! 🌈🚀 If you find something particularly useful, share it with others! Happy coding! 🧑‍💻💡
+```
+>>>>>>> 61f4f45f72e965a513ba4571d8a0a4148795e3a5
